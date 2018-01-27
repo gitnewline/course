@@ -18,12 +18,14 @@ public class Task_M {
 				counter = counter + 1;
 			}
 		}
-		
+	/*	
 		if (counter > 0) {
 			System.out.println(" \"0\" - der sany: "+counter);
 		} else {
 			System.out.println("0 degen san jok");
 		}
+		*/
+		
 	}
 
 }
